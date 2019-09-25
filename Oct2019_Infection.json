@@ -1,0 +1,141 @@
+{
+    "label": "Infection",
+    "description": "Sci-Fi and Fantasy books where a main theme is an infection or virus",
+    "list": 
+  [
+{
+"label":"Doomsday book",
+"isbns": [
+"9780553351675",
+"9780307784445"
+]
+},
+{
+"label":"The fifth elephant",
+"isbns": [
+"9780061051579"
+]
+},
+{
+"label":"The fireman",
+"isbns": [
+"9780062443786",
+"9780062200631",
+"9780062200655",
+"9780062443779",
+"9780062440235"
+]
+},
+{
+"label":"The forest of hands and teeth",
+"isbns": [
+"9780739385371",
+"9780375891977"
+]
+},
+{
+"label":"Frostbite a werewolf tale",
+"isbns": [
+"9781441725042"
+]
+},
+{
+"label":"The girl with all the gifts",
+"isbns": [
+"9780356502731",
+"9781478901532"
+]
+},
+{
+"label":"Infected",
+"isbns": [
+"9781415949535",
+"9780307409171"
+]
+},
+{
+"label":"The knife of never letting go",
+"isbns": [
+"9780763639310",
+"9780763652166"
+]
+},
+{
+"label":"The maze runner",
+"isbns": [
+"9780385737951",
+"9780307582911",
+"9780375893773",
+"9780385907026"
+]
+},
+{
+"label":"Oryx and Crake",
+"isbns": [
+"9781415945384",
+"9780385503853",
+"9781400078981"
+]
+},
+{
+"label":"The passage",
+"isbns": [
+"9781410432872",
+"9780345504968",
+"9781415961773",
+"9780345516862"
+]
+},
+{
+"label":"Sharp teeth",
+"isbns": [
+"9780061573637"
+]
+},
+{
+"label":"The stand",
+"isbns": [
+"9780307987587",
+"9780385528856"
+]
+},
+{
+"label":"Those across the river",
+"isbns": [
+"9781101543863",
+"9781481540414"
+]
+},
+{
+"label":"Virals",
+"isbns": [
+"9781101466728",
+"9781101483633"
+]
+},
+{
+"label":"Warm bodies",
+"isbns": [
+"9781481571463"
+]
+},
+{
+"label":"Wither",
+"isbns": [
+"9781442409057"
+]
+},
+{
+"label":"World war z",
+"isbns": [
+"9780307351937"
+]
+},
+{
+"label":"Y, the last man",
+"isbns": [
+"9781563899805"
+]
+}
+]
+}
