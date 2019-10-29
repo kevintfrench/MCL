@@ -192,15 +192,40 @@
 
 },
 
+
 {
 
-"label" : "Victoria, seasons 1-3",
+"label" : "Victoria Season 1",
 
 "isbns" : [
 
-"9781627899543",
+"9781627899543"
 
-"9781531703660",
+  
+  ]
+  
+},
+
+{
+
+"label" : "Victoria Season 2",
+
+"isbns" : [
+
+
+"9781531703660"
+
+  
+  ]
+  
+},
+
+{
+
+"label" : "Victoria Season 3",
+
+"isbns" : [
+
 
 "9781531709457"
   
