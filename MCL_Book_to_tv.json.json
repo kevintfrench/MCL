@@ -149,18 +149,6 @@
 ]
 
 },
-
-  {
-
-"label" : "Outlander Season One",
-
-"control numbers" : [
-
-"043396476349"
-
-]
-
-},
   
 {
 
@@ -245,19 +233,67 @@
 
 },
 
+},
+
 {
 
-"label" : "Poldark, Seasons 1-5",
+"label" : "Poldark, Season 1",
 
 "isbns" : [
 
-"9781627893329",
+"9781627893329"
 
-"9781627897860",
+]
 
-"9781531702434",
+},
 
-"9781531705053",
+{
+
+"label" : "Poldark, Season 2",
+
+"isbns" : [
+
+
+"9781627897860"
+
+]
+
+},
+
+{
+
+"label" : "Poldark, Season 3",
+
+"isbns" : [
+
+
+"9781531702434"
+
+
+]
+
+},
+
+{
+
+"label" : "Poldark, Season 5",
+
+"isbns" : [
+
+
+"9781531705053"
+
+
+]
+
+},
+
+{
+
+"label" : "Poldark, Season 5",
+
+"isbns" : [
+
 
 "9781531710972"
 
