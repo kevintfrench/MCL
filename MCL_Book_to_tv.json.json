@@ -149,19 +149,45 @@
 ]
 
 },
-  
+
+
 {
 
-"label" : "Outlander Season Two",
+"label" : "Outlander Season One Volume Two",
 
-"isrns" : [
+"isbns" : [
 
-"043396454170"
+"9786316179418"
 
 ]
 
 },
-  
+
+
+{
+
+"label" : "Outlander Season Two",
+
+"isbns" : [
+
+"9786316633262"
+
+]
+
+},
+
+{
+
+"label" : "Outlander Seasone Three",
+
+"isbns": [
+
+"9786317183964"
+
+]
+
+},
+
 {
 
 "label" : "The Alienist",
@@ -191,7 +217,6 @@
 ]
 
 },
-
 
 {
 
@@ -245,8 +270,6 @@
 
 },
 
-},
-
 {
 
 "label" : "Poldark, Season 1",
@@ -279,6 +302,7 @@
 "isbns" : [
 
 
+
 "9781531702434"
 
 
@@ -305,6 +329,7 @@
 "label" : "Poldark, Season 5",
 
 "isbns" : [
+
 
 
 "9781531710972"
