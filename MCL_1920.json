@@ -6,13 +6,15 @@
   
 "list": [
   
+},
+
 {
 
-"label": "Only yesterday : an informal history of the 1920's",
+"label":"The Teapot Dome Scandal : how big oil bought the Harding White House and tried to steal the country",
 
 "isbns": [
 
-"9780471189527"
+"9781400063161"
 
 ]
 
@@ -20,11 +22,11 @@
 
 {
 
-"label":"The Hulton Getty Picture Collection, 1920s : decades of the 20th century",
+"label":"The big burn : Teddy Roosevelt and the fire that saved America",
 
 "isbns": [
 
-"9783829005197"
+"9780618968411"
 
 ]
 
@@ -32,11 +34,11 @@
 
 {
 
-"label":"The writer's guide to everyday life from prohibition through World War II",
+"label":"Capital of the world : a portrait of New York City in the Roaring Twenties",
 
-"isbns":[
+"isbns": [
 
-"9780898796971"
+"9780762770106"
 
 ]
 
@@ -44,11 +46,13 @@
 
 {
 
-"label":"1929 : the year of the great crash",
+"label":"The untold history of the United States",
 
 "isbns": [
 
-"9780060160814"
+"9781451613513",
+
+"9781480507012"
 
 ]
 
@@ -56,23 +60,33 @@
 
 {
 
-"label":"Only yesterday and Since yesterday : a popular history of the '20s and '30s",
+"label":"Who stole the American dream?",
 
 "isbns": [
 
+"9781400069668",
 
-"9780517603550"
+"9780812982053"
+
 ]
 
 },
 
 {
 
-"label":"Rainbow's end : the crash of 1929",
+"label":"One summer : America, 1927",
 
 "isbns": [
 
-"9780195135169"
+"9780767919401",
+
+"9780385537827",
+
+"9780804127363",
+
+"9780385537827",
+
+"9780739315293"
 
 ]
 
@@ -196,93 +210,7 @@
 
 ]
 
-},
 
-{
-
-"label":"The Teapot Dome Scandal : how big oil bought the Harding White House and tried to steal the country",
-
-"isbns": [
-
-"9781400063161"
-
-]
-
-},
-
-{
-
-"label":"The big burn : Teddy Roosevelt and the fire that saved America",
-
-"isbns": [
-
-"9780618968411"
-
-]
-
-},
-
-{
-
-"label":"Capital of the world : a portrait of New York City in the Roaring Twenties",
-
-"isbns": [
-
-"9780762770106"
-
-]
-
-},
-
-{
-
-"label":"The untold history of the United States",
-
-"isbns": [
-
-"9781451613513",
-
-"9781480507012"
-
-]
-
-},
-
-{
-
-"label":"Who stole the American dream?",
-
-"isbns": [
-
-"9781400069668",
-
-"9780812982053"
-
-]
-
-},
-
-{
-
-"label":"One summer : America, 1927",
-
-"isbns": [
-
-"9780767919401",
-
-"9780385537827",
-
-"9780804127363",
-
-"9780385537827",
-
-"9780739315293"
-
-
-]
-
-
-},
 
 {
 
@@ -329,6 +257,78 @@
 "9780743298094",
 
 "9781508259282"
+
+]
+
+}
+  
+  {
+
+"label": "Only yesterday : an informal history of the 1920's",
+
+"isbns": [
+
+"9780471189527"
+
+]
+
+},
+
+{
+
+"label":"The Hulton Getty Picture Collection, 1920s : decades of the 20th century",
+
+"isbns": [
+
+"9783829005197"
+
+]
+
+},
+
+{
+
+"label":"The writer's guide to everyday life from prohibition through World War II",
+
+"isbns":[
+
+"9780898796971"
+
+]
+
+},
+
+{
+
+"label":"1929 : the year of the great crash",
+
+"isbns": [
+
+"9780060160814"
+
+]
+
+},
+
+{
+
+"label":"Only yesterday and Since yesterday : a popular history of the '20s and '30s",
+
+"isbns": [
+
+
+"9780517603550"
+]
+
+},
+
+{
+
+"label":"Rainbow's end : the crash of 1929",
+
+"isbns": [
+
+"9780195135169"
 
 ]
 
