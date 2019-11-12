@@ -163,9 +163,9 @@
 
 "isbnes" : [
 
-"9780425284681,"
+"9780425284681",
 
-"9781984833037,"
+"9781984833037",
 
 "9781432839123",
 
@@ -194,6 +194,8 @@
 ]
 
 },
+  
+{
 
 "label" : "The good people",
 
@@ -273,7 +275,7 @@
 
 {
 
-"label" : "The flight portfolio"	
+"label" : "The flight portfolio",	
 
 "isbns" : [
 
