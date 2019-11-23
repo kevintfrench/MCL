@@ -33,18 +33,6 @@
 
 {
 
-"label" : "Amy Snow",
-
-"isbns" : [
-
-"9781501128370"
-
-]
-
-},
-
-{
-
 "label" : "The Dakota Winters",
 
 "isbns" : [
@@ -115,18 +103,6 @@
 
 {
 
-"label" : "Whiter Than Snow",
-
-"isbns" : [
-
-"9780312600150"
-
-]
-
-},
-
-{
-
 "label" : "Winter of the World",
 
 "isbns" : [
@@ -183,6 +159,72 @@
 
 ]
 
+},
+  
+ {
+  
+"label" : "The Winter King",
+  
+ "isbns" : [
+  
+  "9780062393876"
+  
+ ]
+  
+},
+
+{
+  
+  "label" : "Love Blooms in Winter",
+  
+  "isbns" : [
+    
+    "9780736930192"
+  
+  ]
+  
+},
+
+{
+  
+  "label" : "Dead of Winter",
+  
+  "isbns" : [
+    
+    "9780670020935"
+    
+   ]
+  
+},
+
+{
+  
+  "label" : "A Hunt In Winter",
+  
+  "isbns" : [
+    
+    "9781683313953"
+    
+    ]
+  
+},
+
+{
+  
+  "label" : "In the Midst of Winter",
+  
+  "isbns" : [
+    
+    "9781501178139",
+    
+    "9781432844363",
+    
+    "9781508241973",
+    
+    "9781508241973"
+    
+    ]
+  
 }
 
 ]
