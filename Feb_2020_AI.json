@@ -1,0 +1,118 @@
+﻿{
+    "label": "AI",
+    "description": "Books with themes of Artificial Intelligence, and AI characters.",
+    "list": [
+{
+"label":"Altered carbon",
+"isbns": [
+"9780345457684",
+"9781400121373"
+]
+},
+{
+"label":"Ancillary justice",
+"isbns": [
+"9780316246620"
+]
+},
+{
+"label":"Daemon : a novel",
+"isbns": [
+"9780525951117"
+]
+},
+{
+"label":"Defy the stars",
+"isbns": [
+"9780316394031",
+"9781478919445",
+"9781478919421"
+]
+},
+{
+"label":"I, robot",
+"isbns": [
+"9780553382563",
+"9780739346273",
+"9780553900330"
+]
+},
+{
+"label":"Machines like me : a novel",
+"isbns": [
+"9780385545129",
+"9780593152812",
+"9780385545112"
+]
+},
+{
+"label":"Midnight robber",
+"isbns": [
+"9780759521124"
+]
+},
+{
+"label":"Robopocalypse",
+"isbns": [
+"9780307913937",
+"9780385533867"
+]
+},
+{
+"label":"Scythe",
+"isbns": [
+"9781442472426",
+"9781442472440"
+]
+},
+{
+"label":"Singularity sky",
+"isbns": [
+"9780441010721"
+]
+},
+{
+"label":"Skinned",
+"isbns": [
+"9781416936343"
+]
+},
+{
+"label":"Spin state",
+"isbns": [
+"9780553382136"
+]
+},
+{
+"label":"The mad scientist's daughter",
+"isbns": [
+"9780857662668"
+]
+},
+{
+"label":"The Ophiuchi hotline",
+"isbns": [
+"9780575072831"
+]
+},
+{
+"label":"The robots of Gotham",
+"isbns": [
+"9781328711014"
+]
+},
+{
+"label":"The Vision. 1, Little worse than a man",
+"isbns": [
+"9780785196570"
+]
+},
+{
+"label":"The wild robot",
+"isbns": [
+"9780316381994",
+"9781478939092"
+]
+}
+]
+}
