@@ -1,0 +1,109 @@
+{
+
+"label" : "Taxes",
+
+"Description" : "A few books to gelp you through tax season",
+
+"List" : [
+  
+{  
+
+"label" : "Small business taxes made easy",
+
+"isbns" : [
+
+"9780071743273"
+
+]
+
+},
+
+{
+
+"label" : "Every Landlord's Tax Deduction Guide",
+
+"isbns" : [
+
+"9781413319279"
+
+]
+
+},
+
+{
+
+"label" : "Home Business Tax Deductions : Keep What You Earn",
+
+"isbns" : [
+
+"9781413322071",
+
+"9781413325744"
+
+]
+
+},
+
+{
+
+"label" : "Tax Guide for short-term rentals : Airbnb, HomeAway, VRBO & More",
+
+"isbns" : [
+
+"9781413324563"
+
+]
+
+},
+
+{
+
+"label" : "Stand Up to the IRS",
+
+"isbns" : [
+
+"9781413324587"
+
+]
+
+},
+
+{
+
+"label" : "Working For Yourself",
+
+"isbns" : [
+
+"9781413325812"
+
+]
+
+},
+
+{
+
+"label" : "Tax Savvy for Small Business",
+
+"isbns" : [
+
+"9781413325782"
+
+]
+
+},
+
+{
+
+"label" : "Tax-Free Wealth",
+
+"isbns" : [
+
+"9781947588059"
+
+]
+
+}
+
+]
+
+}
