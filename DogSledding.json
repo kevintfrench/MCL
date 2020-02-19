@@ -1,0 +1,250 @@
+{
+
+"description" : "Books and Movies to Help you Learn About Dog Sledding",
+  
+"label" : "Dog Sledding",
+
+"list" : [
+  
+{  
+
+"label" : "A History of Dog Sledding in New England",
+
+"isbns" : [
+
+"9781609492649"
+
+]
+
+},
+
+{
+
+"label" : "Balto II: Wolf Quest",
+
+"isbns" : [
+
+"9780783248929"
+
+]
+
+},
+
+{
+
+"label" : "Balto III. Wings of Change",
+
+"isbns" : [
+
+"9781417003488"
+
+]
+
+},
+
+{
+
+"label" : "Canadian Red",
+
+"isbns" : [
+
+"9781683248613"
+
+]
+
+},
+
+{
+
+"label" : "Fast into the Night",
+
+"isbns" : [
+
+"9780544484122"
+
+]
+
+},
+
+{
+
+"label" : "Iron Will",
+
+"isbns" : [
+
+"9780788833359"
+
+]
+
+},
+
+{
+
+"label" : "Siberian Huskies",
+
+"isbns" : [
+
+"9781577654209"
+
+]
+
+},
+
+{
+
+"label" : "Siberian Huskies",
+
+"isbns" : [
+
+"9781595151629"
+
+]
+
+},
+
+{
+
+"label" : "Siberian Huskies",
+
+"isbns" : [
+
+"9780764163791"
+
+]
+
+},
+
+{
+
+"label" : "Snow Buddies",
+
+"isbns" : [
+
+"9780788879128"
+
+]
+
+},
+
+{
+
+"label" : "Stone Fox",
+
+"isbns" : [
+
+"9780690039832",
+"9780788746406"
+
+]
+
+},
+
+{
+
+"label" : "The Call of the Wild",
+
+"isbns" : [
+
+"9781400158539",
+
+"9780618300099",
+
+"9781593080020",
+
+"9780940450059",
+
+"9780553212334"
+
+]
+
+},
+
+{
+
+"label" : "The Cruelest Miles",
+
+"isbns" : [
+
+"9780393019629"
+
+]
+
+},
+
+{
+
+"label" : "The First Chinook",
+
+"isbns" : [
+
+"9780976467601"
+
+]
+
+},
+
+{
+
+"label" : "The Impossible Rescue",
+
+"isbns" : [
+
+"9780763666347"
+
+]
+
+},
+
+{
+
+"label" : "The Speed Mushing Manual",
+
+"isbns" : [
+
+"9780962364303"
+
+]
+
+},
+
+{
+
+"label" : "Torturous Trek",
+
+"isbns" : [
+
+"9781683241805"
+
+]
+
+},
+
+{
+
+"label" : "Welcome to the Foddamn Ice Cube",
+
+"isbns" : [
+
+"9780062642851",
+
+"9780062642851"
+
+]
+
+},
+
+{
+
+"label" : "Woodsong",
+
+"isbns" : [
+
+"9780027702217"
+
+]
+
+}
+
+]
+
+}
