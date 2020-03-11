@@ -75,7 +75,7 @@
 
 {
 
-"label" : "Mission to Paris"
+"label" : "Mission to Paris",
 
 "isbns" : [
 
@@ -104,6 +104,8 @@
 {
 
 "label" : "Paris : the novel",
+  
+  "isbns" : [
 
 "9780385535304",
 
@@ -178,6 +180,8 @@
 {
 
 "label" : "The Paris Orphan",
+  
+  "isbns" : [
 
 "9781538764893",
 
@@ -267,7 +271,7 @@
 
 "isbns" : [
 
-"9780062354631",
+"9780062354631"
 
 ]
 
@@ -276,3 +280,4 @@
 ]
 
 }
+
