@@ -1,0 +1,89 @@
+{
+    "label": "Genetics and Health",
+  "description": "Fiction and Nonfiction resources for Genetics and Health Literacy!",
+    "resources": [
+{
+"label":"Inside the O’Briens",
+"isbns": [
+"9781476717791",
+"9781442382510",
+"9781442382497",
+"9781476717777"
+]
+},
+{
+"label":"Still Alice",
+"isbns": [
+"9781456109950",
+"9781501106422",
+"9781442336209",
+"9781597229395"
+]
+},
+{
+"label":"Next: A Novel",
+"isbns": [
+"9780061290428",
+"9780061290411"
+]
+},
+{
+"label":"My Sister’s Keeper",
+"isbns": [
+"9781508224280",
+"9780743486194"
+]
+},
+{
+"label":"Brave New World",
+"isbns": [
+"9780792753520",
+"9780060850524",
+"9780792752257",
+"9780795311253"
+]
+},
+{
+"label":"Altered Carbon",
+"isbns": [
+"9780345457684",
+"9781400121373"
+]
+},
+{
+"label":"She has her mother’s laugh: the powers, perversions, and potential of heredity",
+"isbns": [
+"9781101984598"
+]
+},
+{
+"label":"The violinist’s thumb: and other lost tales of love, war, and genius, as written by our genetic code",
+"isbns": [
+"9780316182317"
+]
+},
+{
+"label":"The gene: an intimate history",
+"isbns": [
+"9781476733524",
+"9781476733500",
+"9781508211402"
+]
+},
+{
+"label":"The gene machine: how genetic technologies are changing the way we have kids—and the kids we have",
+"isbns": [
+"9780374160784"
+]
+},
+{
+"label":"The immortal life of Henrietta Lacks",
+"isbns": [
+"9781400052172",
+"9780307589385",
+"9780307712516",
+"9780307712530"
+]
+}
+]
+}
