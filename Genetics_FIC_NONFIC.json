@@ -1,8 +1,8 @@
 {
   "label": "Genetics and Health",
-  "description": "Fiction and Nonfiction resources for Genetics and Health Literacy!",
-   "resources": [
-{
+  "description": "Fiction and Nonfiction resources for Genetics and Health Literacy!"
+  "resources":[
+   {
 "label":"Inside the O’Briens",
 "isbns": [
 "9781476717791",
